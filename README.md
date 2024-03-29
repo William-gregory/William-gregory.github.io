@@ -1,1 +1,0 @@
-# William-gregory.github.io
