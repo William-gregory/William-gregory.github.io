@@ -25,23 +25,17 @@
         ga('send', 'pageview');
     </script>
     <style>
-        body {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
         .container {
             max-width: 800px; /* Adjust as needed */
             width: 100%;
             padding: 0 20px; /* Adjust as needed */
-        }
-        .img-container {
+            margin: auto;
             text-align: center;
-            margin-top: 20px;
         }
-        .img-container img {
+        .profile-img {
             width: 200px; /* Adjust as needed */
             border-radius: 50%; /* Adjust as needed */
+            margin-top: 20px;
         }
         .site-description {
             text-align: center;
@@ -66,18 +60,12 @@
     </div>
 </div>
 
-<div class="container-fluid">
-            <div class="banner" style="background-image:
-            url(/images/vienna.jpg); background-position: left;">
-            </div>
-</div>
-
 <div class="container">
-    <div class="img-container">
-        <img src="../images/profile.jpeg" class="img-square" title="Full moon">
-    </div>
+    <div class="banner" style="background-image: url(/images/vienna.jpg); background-position: left;"></div>
+
+    <img src="../images/profile.jpeg" class="profile-img" title="Profile Picture">
     <p class="site-description">Understanding sea ice changes through machine learning, climate modelling, and remote sensing</p>
-    <br>
+
     <h2>About</h2>
     <p>
         Welcome! I'm a postdoctoral research associate at Princeton University, working within the <a href="https://www.gfdl.noaa.gov">Geophysical Fluid Dynamics Laboratory (GFDL)</a> Ocean and Cryosphere division.
@@ -110,51 +98,34 @@
         <li>
             <a href="https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra">
                 <i class="ai ai-google-scholar-square fa-3x" title="Google Scholar"></i>
-
             </a>
         </li>
-
         <li>
             <a href="https://github.com/William-Gregory">
                 <i class="fa fa-github-square fa-3x" title="Github"></i>
-
             </a>
         </li>
-
         <li>
             <a href="http://orcid.org/0000-0001-8176-1642">
                 <i class="ai ai-orcid-square fa-3x" title="ORCID"></i>
-
             </a>
         </li>
-
     </ul>
-
 </div>
 
 <footer>
     <div class="container">
-
         <p class="text-center">
             Hosted on <a href="https://pages.github.com/">Github Pages</a>.
             The source code to build this site is available at
             <a href="https://github.com/William-gregory/William-gregory.github.io">William-gregory</a>.
             <br>
-            Built using <a href="http://urubu.jandecaluwe.com/">Urubu</a>
-            and <a href="http://getbootstrap.com/">Bootstrap</a> with
-            icons by <a href="http://fontawesome.io/">Font Awesome</a>
-            and <a href="http://jpswalsh.github.io/academicons/">Academicons</a>.
+            Built using <a href="http://urubu.jandecaluwe.com/">Urubu</a> and <a href="http://getbootstrap.com/">Bootstrap</a> with icons by <a href="http://fontawesome.io/">Font Awesome</a> and <a href="http://jpswalsh.github.io/academicons/">Academicons</a>.
             <br>
             This website was adapted from the excellent open source site of <a href="http://www.leouieda.com/">Leonardo Uieda</a>.
-            <!--Except where noted, all content is available under the
-            <a rel="license"
-               href="http://creativecommons.org/licenses/by/4.0/">CC-BY License</a>.-->
             <br>
-            This website uses
-            <a href="https://analytics.google.com">Google Analytics</a>
-            to monitor visitor statistics.
+            This website uses <a href="https://analytics.google.com">Google Analytics</a> to monitor visitor statistics.
         </p>
-
     </div>
 </footer>
 
