@@ -20,21 +20,27 @@ header:
 
  -->
 
+Jump to:
+- [01 Introduction to vectors](#vectors)
+- [02 Introduction to matrices](#matrices)
+- [03 The Determinant](#determinant)
+- [04 The matrix inverse](#inverse)
+
 Note that you can download each of these notebooks from [Github](https://github.com/William-gregory/ML-fundamentals/tree/master/LinearAlgebra)
 
 ### 01 Introduction to vectors
-
+<a id="vectors"></a>
 <iframe src="/files/01_introduction_to_vectors.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ### 02 Introduction to matrices
-
+<a id="matrices"></a>
 <iframe src="/files/02_introduction_to_matrices.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ### 03 The Determinant
-
+<a id="determinant"></a>
 <iframe src="/files/03_determinant.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ### 04 The matrix inverse
-
+<a id="inverse"></a>
 <iframe src="/files/04_matrix_inverses.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
