@@ -20,11 +20,13 @@ header:
 
  -->
 
-Jump to:
-- [01 Introduction to vectors](#vectors)
-- [02 Introduction to matrices](#matrices)
-- [03 The Determinant](#determinant)
-- [04 The matrix inverse](#inverse)
+A series of Jupyter notebooks which introduce fundamental concepts related to statistics and applied machine learning
+
+Jump to: <br>
+[01 Introduction to vectors](#vectors) <br>
+[02 Introduction to matrices](#matrices) <br>
+[03 The Determinant](#determinant) <br>
+[04 The matrix inverse](#inverse) <br>
 
 Note that you can download each of these notebooks from [Github](https://github.com/William-gregory/ML-fundamentals/tree/master/LinearAlgebra)
 
