@@ -35,13 +35,18 @@ header:
 <span style="font-size: 16px;">In this work, we found that GPSat is over 500x faster than a naive implementation of GP models. We therefore suggested that GPSat could overcome the computational bottlenecks faced in many altimetry-based interpolation routines, and hence advance critical understanding of ocean and sea ice variability over short spatio-temporal scales.</span>
 
 # State-dependent sea ice bias correction with machine learning <br>
-<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/DA-ML) | [Link to Full Paper 1](https://doi.org/10.1029/2023MS003757) | [Link to Full Paper 2](https://doi.org/10.1029/2023GL106776)</span>
+<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/DA-ML)</span>
 <span style="font-size: 10px;">Collaborators: Mitch Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna</span>
 
+### Part I: Learning model error from data assimilation corrections <br>
+[Link to Full Paper](https://doi.org/10.1029/2023MS003757) | [Link to Full Paper 2](https://doi.org/10.1029/2023GL106776)
+
 <img src="http://William-gregory.github.io/images/JAMES_increments.png" alt="JAMES1" width="600" align="right"/>
-<img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL1" width="600" align="right"/>
 <span style="font-size: 16px;">Climate models contain structural errors as a result of poorly parameterised or missing physics, as well as errors in the discretisation of continuous equations and surface forcing. These structural errors lead to systematic biases in numerical simulations. For example, a sea ice model which systematically produces too much sea ice relative to a set of observations. Data Assimilation (DA) is a Bayesian framework which can reduce biases in order to bring the model state closer to the observations. Loosely speaking we can think of DA as producing a *correction* to the model state. These corrections actually contain information about the systematic biases of a model. For example, if a model has a systematic positive bias, then the corrections generated from DA will be systematically negative (the DA is always trying to pull the model down from its positively biased state). In this work, we investigated whether these DA corrections contain any state-dependence. In other words, is there any information in the model state variables themselves (e.g., variables like sea ice concentration, or sea-surface temperature) that allow us to predict the systematic component of model error which is present in the DA corrections. We used machine learning for this task. Specifically, convolutional neural networks.</span>
 
+### Part II: Applying the corrections in numerical simulations <br>
+[Link to Full Paper](https://doi.org/10.1029/2023GL106776)
 
+<img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL1" width="600" align="right"/>
 
 
