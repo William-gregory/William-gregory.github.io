@@ -27,7 +27,7 @@ header:
  -->
 
 # GPSat: Scalable Gaussian process interpolation <br>
-<span style="line-height: 1;">[GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)</span>
+<span style="line-height: 0;">[GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)</span>
 <span style="font-size: 10px;">Collaborators: Ronald MacEachern, So Takao, Isobel Lawrence, Carmen Nab, Marc Deisenroth, Michel Tsamados</span>
 
 <img src="http://William-gregory.github.io/images/GPSat.png" alt="GPSat" width="600" align="right"/>
@@ -35,8 +35,11 @@ header:
 <span style="font-size: 16px;">In this work, we found that GPSat is over 500x faster than a naive implementation of GP models. We therefore suggested that GPSat could overcome the computational bottlenecks faced in many altimetry-based interpolation routines, and hence advance critical understanding of ocean and sea ice variability over short spatio-temporal scales.</span>
 
 # State-dependent sea ice bias correction with machine learning <br>
-<span style="line-height: 1;">[GitHub Repository](https://github.com/William-gregory/DA-ML) | [Link to Full Paper](https://doi.org/10.1029/2023GL106776)</span>
+<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/DA-ML) | [Link to Full Paper 1](https://doi.org/10.1029/2023GL106776) | [Link to Full Paper 2](https://doi.org/10.1029/2023MS003757)</span>
 <span style="font-size: 10px;">Collaborators: Mitch Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna</span>
+
+<img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL1" width="600" align="right"/>
+Climate models contain structural errors as a result of poorly parameterised physics...
 
 
 
