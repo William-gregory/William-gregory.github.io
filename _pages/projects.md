@@ -27,7 +27,7 @@ header:
  -->
 
 # GPSat: Scalable Gaussian process interpolation <br>
-[GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)
+<span style="line-height: 1;">[GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)</span>
 <span style="font-size: 10px;">Collaborators: Ronald MacEachern, So Takao, Isobel Lawrence, Carmen Nab, Marc Deisenroth, Michel Tsamados</span>
 
 <img src="http://William-gregory.github.io/images/GPSat.png" alt="GPSat" width="600" align="right"/>
