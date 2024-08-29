@@ -4,7 +4,7 @@ title: "Talks & Seminars"
 permalink: /seminars/
 author_profile: true
 header:
-  overlay_image: "mtn.jpg"
+  overlay_image: "venice.jpg"
 ---
 <!--
 {% if author.googlescholar %}
@@ -20,41 +20,21 @@ header:
  -->
 {% include base_path %}
 
-### Selected Invited Talks (last updated Apr 2024)
+### Invited Talks
 
-**W Chapman**, J. Berner “Deterministic and Stochastic Tendency Adjustments Derived from Data Assimilation and Nudging”, *Climate Variability Working Group Annual Meeting* Mar 5, 2024
+24/06/2024 - From component to coupled: evaluating the performance of a machine-learned sea ice bias correction scheme in fully-coupled seasonal predictions. Nansen SuperIce Webinar.
 
-**W Chapman**, “Advancing Weather and Climate Prediction with Data-Driven Methods”, *Naval Post-Graduate School* Mar 2, 2024
+14/06/2024 - Towards improving numerical sea ice predictions with data assimilation and machine learning. NOAA Arctic All Hands Meeting.
 
-**W Chapman**, “Advancing Weather and Climate Prediction with Data-Driven Methods”, *University of Washington, Allen School Colloquia Series* Feb 20, 2024
+01/05/2024 - Applications of machine learning to sea ice data assimilation. 10th US Climate Modeling Summit. NOAA Geophysical Fluid Dynamics Laboratory, Princeton USA.
 
-**W Chapman**, “Leveraging DART and Nudging Increments to Address Model Bias in CAM6”, *NOAA - Atmosphere-Ocean Processes and Predictability Section* March, 2023.
+12/04/2024 - Towards a machine-learned sea ice model parameterization from data assimilation increments. Euro-Mediterranean Center on Climate Change (CMCC), Bologna Italy.
 
-**W Chapman**, J. Berner, “Comparing Data Assimilation and Nudging Increment Tendency Adjustments in Addressing Model Bias in CAM6”, *University of Bergen- UIB, Bjerkness Center Lecture Series* – May 15, 2023.
+09/11/2022 - Deep learning of systematic model biases from data assimilation increments. New York University Courant Institute of Mathematical Sciences Guest Seminar Series, New York USA.
 
-**W Chapman**, “Monthly Modulations of ENSO teleconnections”, *NCAR ASP 2022 Workshop on S2S Science and prediction* July, 2022.
+27/05/2022 - Machine learning tools for pattern recognition in polar climate science. EGU General Assembly 2022, Vienna Austria, EGU22-12785.
 
-**W Chapman**,“Probabilistic Weather Prediction with Neural Networks”, *TRUSTWORTHY ARTIFICIAL INTELLIGENCE FOR ENVIRONMENTAL SCIENCE (TAI4ES) SUMMER SCHOOL* July 27, 2021.
-
-**W Chapman**, L Delle Monache, S Alessandrini, AC Subramanian, N Hayatbini, SP Xie, and FM Ralph, "Deterministic and Probabilistic Methods for Improving Atmospheric River Forecasts with Machine Learning", *Scripps Institutional Seminar* -- November 17, 2020
-
-**W Chapman**, L Delle Monache, S Alessandrini, AC Subramanian, N Hayatbini, SP Xie, and FM Ralph, "Deterministic and Probabilistic Methods for Improving Atmospheric River Forecasts with Machine Learning", *Scripps Institutional Seminar* -- November 17, 2020
-
-**W Chapman**, "Bayesian Neural Networks and NWP Forecast Post-Processing", *UCI/Columbia CBrain Meeting* -- April 21, 2020
-
-**W Chapman**, Instructor: "AGU Tutorial on Machine Learning and Deep Learning for the Environmental and Geosciences", *AGU Fall Meeting* -- December 8, 2019
-
-**W Chapman**, AC Subramanian, L Delle Monache, SP Xie, and FM Ralph, "Spatial Correction of NWP Forecasts", *National Center for Atmospheric Research RAL* -- November 7, 2019
-
-**W Chapman**, T Kilpatrick, and SP Xie, "Comparative Field Reconstruction: Deep Learning, MCA, CCA", *National Center for Atmospheric Research - Artificial Intelligence Affinity Group (AIAG)* -- Oct 9, 2019
-
-**W Chapman**, A Wilson, and FM Ralph, "Center for Western Weather and Water Extremes: Atmospheric River Colloquium", *Western States Water Council and the California Department of Water Resources Subseasonal to Seasonal Workshop* -- May 23, 2019
-
-
-**W Chapman**, SP Xie, and FM Ralph, "High Impact Weather, Climate Extremes, and Non-Gaussian Statistics", *Climate Science Policy Ocean/Atmos Ph.D. Student Seminar* -- February 8, 2019
-
-
-**W Chapman**, "No Red Meat or a New Electric Vehicle, Food Choices and Emissions", *Connecting the Dots 2015: The Food, Energy, Water and Climate Nexus*, Stanford University -- April 17, 2015
+05/03/2020 - Machine learning in climate science. UK Government Digital Service, London UK.
 
 --------------------
 
