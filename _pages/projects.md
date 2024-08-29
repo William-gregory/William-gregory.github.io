@@ -30,4 +30,4 @@ header:
 
 [GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)
 
-<img src="http://William-gregory.github.io/images/GPSat.png" alt="Brier" width="900"/>
+<img src="http://William-gregory.github.io/images/GPSat.png" alt="Brier" width="450"/>
