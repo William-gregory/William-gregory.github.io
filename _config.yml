@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Will Chapman"
+title                    : "Will Gregory"
 title_separator          : "-"
-name                     : &name "Will Chapman"
-description              : &description "Project Scientist, National Center for Atmospheric Research"
-url                      : https://willychap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Will Gregory"
+description              : &description "Postdoctoral Research Associate, Princeton University"
+url                      : https://William-gregory.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "willychap/willychap.github.io"
+repository               : "William-gregory/William-gregory.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Will Chapman"
-  avatar           : "william_chapman_square.jpg"
-  bio              : "Project Scientist, National Center for Atmospheric Research"
-  location         : "Boulder, CO"
+  name             : "Will Gregory"
+  avatar           : "profile.jpeg"
+  bio              : "Postdoctoral Research Associate, Princeton Universtiy"
+  location         : "Princeton, NJ"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=C1ox2CEAAAAJ&hl=en"
-  email            : "wchapman at ucar.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra"
+  email            : "wg4031 at princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "WillyChap"
+  github           : "William-gregory"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0002-0472-7069"
+  orcid            : "https://orcid.org/0000-0001-8176-1642"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@WillEricChapman"
+  twitter          : "@willjgregory_"
   vine             :
   weibo            :
   xing             :
