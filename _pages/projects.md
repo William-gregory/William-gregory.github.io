@@ -26,5 +26,7 @@ header:
 
  -->
 
-## GPSat: Scalable Gaussian process interpolation
+# GPSat: Scalable Gaussian process interpolation
+
+[GitHub Repository](https://github.com/CPOMUCL/GPSat) | [Link to Full Paper](https://doi.org/10.1038/s41467-024-51900-x)
 
