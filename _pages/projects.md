@@ -48,6 +48,6 @@ header:
 ### Part II: Applying the corrections in numerical simulations <br>
 [Link to Paper](https://doi.org/10.1029/2023GL106776)
 
-<img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL1" width="800"/>
+<img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL1" width="100%"/>
 
 
