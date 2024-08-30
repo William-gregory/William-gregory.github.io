@@ -48,6 +48,8 @@ header:
 ### Part II: Applying the corrections in numerical simulations <br>
 [Link to Paper](https://doi.org/10.1029/2023GL106776)
 
+<span style="font-size: 16px;">In a follow-up study to Part I, we used the convolutional neural network which was trained to predict sea ice concentration DA increments, to do online bias correction in global ice-ocean simulations. A snapshot of the model error in summer is shown in the figures below for both the Arctic and Antarctic, where the observed ice edge is shown by the black contour. The colours then represent sea ice concentration errors relative to observations. We can see that the free-running model generally has too much sea ice in summer in both hemispheres - highlighted by the positive errors equator-ward of the observed ice edge contour. The simulation which assimilates observations (DA simulation) then reduces the ice-edge errors significantly. Impressively, the simulation which applies the machine learning correction (ML simulation) also significantly reduces the model errors, despite **never seeing any observations** - the corrections being applied during the model simulation are only a function of the model state variables themselves.</span>
+
 <img src="http://William-gregory.github.io/images/GRL_snapshot_Arctic.png" alt="GRL1" width="100%"/>
 <img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL2" width="100%"/>
 
