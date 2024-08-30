@@ -20,7 +20,7 @@ header:
 
  -->
 
-A series of Jupyter notebooks which introduce fundamental concepts related to statistics and applied machine learning. Note that you can download each of these notebooks from [Github](https://github.com/William-gregory/ML-fundamentals/)
+IN PROGRESS - A series of Jupyter notebooks which introduce fundamental concepts related to statistics and applied machine learning. Note that you can download each of these notebooks from [Github](https://github.com/William-gregory/ML-fundamentals/)
 
 Jump to: <br>
 [01 Introduction to vectors](#vectors) <br>
