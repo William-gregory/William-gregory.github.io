@@ -63,7 +63,6 @@ header:
 *****
 
 # Climate networks <br>
-
 ### Part I: Atmosphere-ice teleconnections <br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks) | [Link to Paper](https://doi.org/10.5194/tc-16-1653-2022)</span>
 <span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
@@ -74,3 +73,7 @@ header:
 ### Part II: Sea ice forecasting <br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/SeaIceExtentForecasting) | [Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)</span>
 <span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
+
+*****
+*****
+*****
