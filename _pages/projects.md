@@ -63,14 +63,14 @@ header:
 *****
 
 # Climate networks <br>
-<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks)</span>
-<span style="font-size: 10px;">Collaborators: Michel Tsamados, Julienne Stroeve, Peter Sollich</span>
 
 ### Part I: Atmosphere-ice teleconnections <br>
-[Link to Paper](https://doi.org/10.5194/tc-16-1653-2022)
+<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks) | [Link to Paper](https://doi.org/10.5194/tc-16-1653-2022)</span>
+<span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
 
 <img src="http://William-gregory.github.io/images/SIC_network.png" alt="TC1" width="350" align="right"/>
 <span style="font-size: 16px;">The representation of the climate system as a complex network is a useful framework with which to visualise and understand intrinsic climate variability, as well as coupled climate interactions, or *teleconnections*. During my PhD at University College London, I developed a workflow based on unsupervised cluster analysis for representing geospatial data sets as complex networks. The first step in this approach is to perform a clustering of grid points based on their temporal correlation structure. This can be seen in the figure on the right, in which grid points have been clustered together into spatially-contigous geographic regions. For sea ice, these represent regions which have behaved in a 'homogenous' way over the length of the time-series record - by homogeneous, we mean a high anomaly correlation coefficient of local sea ice concentration.</span>
 
 ### Part II: Sea ice forecasting <br>
-[Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)
+<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/SeaIceExtentForecasting) | [Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)</span>
+<span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
