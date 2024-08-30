@@ -53,3 +53,12 @@ header:
 
 <img src="http://William-gregory.github.io/images/GRL_snapshot_Arctic.png" alt="GRL1" width="100%"/>
 <img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL2" width="100%"/>
+
+# Climate networks <br>
+<span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks)</span>
+<span style="font-size: 10px;">Collaborators: Michel Tsamados, Julienne Stroeve, Peter Sollich</span>
+
+### Part I: Atmosphere-ice teleconnections <br>
+[Link to Paper](https://doi.org/10.1029/2023MS003757)
+
+<img src="http://William-gregory.github.io/images/SIC_network.png" alt="TC1" width="300" align="right"/>
