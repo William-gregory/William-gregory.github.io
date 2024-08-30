@@ -74,8 +74,8 @@ header:
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/SeaIceExtentForecasting) | [Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)</span>
 <span style="font-size: 10px;">Collaborators: Michel Tsamados, Julienne Stroeve, Peter Sollich</span>
 
-<span style="font-size: 16px;">The ability of complex networks to extract leading modes of climate variability and derive spatio-temporal connectivity structure, provides a good foundation for exploring predictability. During my PhD at University College London, I used a combined approach of complex networks and Gaussian process models to do data-driven seasonal sea ice prediction of September Arctic sea ice extent. In our publication in Weather and Forecasting, we create sea ice area networks in the 1-3 months leading up to September, and used the connected nature of the network as a 'prior' in a statistical forecast model. </span>
-<img src="http://William-gregory.github.io/images/PA_forecasts.png" alt="TC1" width="450"/>
+<span style="font-size: 16px;">The ability of complex networks to extract leading modes of climate variability and derive spatio-temporal connectivity structure, provides a good foundation for prediction. During my PhD at University College London, I used a combined approach of complex networks and Gaussian process models to do data-driven seasonal sea ice prediction of September Arctic sea ice extent. In our publication in Weather and Forecasting, we create sea ice area networks in the 1-3 months leading up to September, and used the connected nature of the network as a 'prior' in our Gaussian process model. In the figure below we can see the skill of this method in predicting monthly-mean pan-Arctic September sea ice extent anomalies at different lead times. Naturally, making predictions of mean September ice extent on September 1 produces the highest skill, and the skill then decreases as we increase the lead time. Notice for example how we get good skill in extreme years, such as 2012, as far back as July 1. </span>
+<img src="http://William-gregory.github.io/images/PA_forecasts.png" alt="TC1" width="75%"/>
 
 *****
 *****
