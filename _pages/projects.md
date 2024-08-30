@@ -74,7 +74,8 @@ header:
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/SeaIceExtentForecasting) | [Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)</span>
 <span style="font-size: 10px;">Collaborators: Michel Tsamados, Julienne Stroeve, Peter Sollich</span>
 
-<span style="font-size: 16px;">The fact that complex networks allow us to extract to leading modes of variability in a given climate data set, and understand the spatio-temporal connectivity structure of different regions gives us insight into predictability.</span>
+<span style="font-size: 16px;">The ability of complex networks to extract leading modes of climate variability and derive spatio-temporal connectivity structure, provides a good foundation for exploring predictability. During my PhD at University College London, I used a combined approach of complex networks and Gaussian process models to do data-driven seasonal sea ice prediction of September Arctic sea ice extent. In our publication in Weather and Forecasting, we create sea ice area networks in the 1-3 months leading up to September, and used the connected nature of the network as a 'prior' in a statistical forecast model. </span>
+<img src="http://William-gregory.github.io/images/PA_forecasts.png" alt="TC1" width="450"/>
 
 *****
 *****
