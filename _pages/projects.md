@@ -72,7 +72,7 @@ header:
 
 ### Part II: Sea ice forecasting <br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/SeaIceExtentForecasting) | [Link to Paper](https://doi.org/10.1175/WAF-D-19-0107.1)</span>
-<span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
+<span style="font-size: 10px;">Collaborators: Michel Tsamados, Julienne Stroeve, Peter Sollich</span>
 
 *****
 *****
