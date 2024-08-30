@@ -34,6 +34,10 @@ header:
 <span style="font-size: 16px;">Satellite altimeters have been revolutionary in our understanding of sea ice, as they allow us to measure sea ice thickness directly from space. This has therefore given us a crucial insight into energy budgets in the Arctic, and the volumetric response of sea ice to global warming. Despite this, altimeters generally have narrow spatial footprints, on the order of 10s to 100s of metres. This means that on a given day, we may only sample a small fraction of a given spatial domain. For the CryoSat-2 radar altimeter, if data are binned to a 25 km grid, then it takes 30 days to uniformly sample the sea ice cover in the Arctic. At the footprint level it will take on the order of 1 year. These gaps in the data record make it difficult to understand how sea ice thickness changes on timescales ranging from days to weeks. Over the past few years I've been working with colleagues at University College London and the European Space Agency to develop a python programming library called 'GPSat' which attempts to fill these gaps in polar altimetry data. The idea behind GPSat is to use Gaussian Process (GP) models to learn how these observations co-vary in space and time, and to predict their values at unobserved locations. GP models are nice as they follow Bayesian principles; guiding our predictions based on our prior beliefs. The downside of GP models is that they are typically very expensive when dealing with large data sets. In this study in Nature Communications, we showed that our GPSat library can interpolate sea ice observations at relatively high spatial resoluton (5 km), and crucially, in affordable time. This is because we adopt a local approach, whereby we distribute GP models (we call them *local experts*) across the spatial domain (see image above), and then share information across these models when predicting at unobserved locations. We can also significantly speed up computations by leveraging GPU hardware.</span><br>
 <span style="font-size: 16px;">In this work, we found that GPSat is over 500x faster than a naive implementation of GP models. We therefore suggested that GPSat could overcome the computational bottlenecks faced in many altimetry-based interpolation routines, and hence advance critical understanding of ocean and sea ice variability over short spatio-temporal scales.</span>
 
+*****
+*****
+*****
+
 # State-dependent sea ice bias correction with machine learning <br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/DA-ML)</span>
 <span style="font-size: 10px;">Collaborators: Mitch Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna</span>
@@ -53,6 +57,10 @@ header:
 
 <img src="http://William-gregory.github.io/images/GRL_snapshot_Arctic.png" alt="GRL1" width="100%"/>
 <img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL2" width="100%"/>
+
+*****
+*****
+*****
 
 # Climate networks <br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks)</span>
