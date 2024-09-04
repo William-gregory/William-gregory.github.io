@@ -20,27 +20,28 @@ header:
 
  -->
 
+<a id="top"></a>
 IN PROGRESS - A series of Jupyter notebooks which introduce fundamental concepts related to statistics and applied machine learning. Note that you can download each of these notebooks from [Github](https://github.com/William-gregory/ML-fundamentals/)
 
 Jump to: <br>
 [01 Introduction to vectors](#vectors) <br>
 [02 Introduction to matrices](#matrices) <br>
-[03 The Determinant](#determinant) <br>
+[03 The determinant](#determinant) <br>
 [04 The matrix inverse](#inverse) <br>
 
-### 01 Introduction to vectors
+### 01 Introduction to vectors <span style="font-size: 11px;">[back to top](#top)</span>
 <a id="vectors"></a>
 <iframe src="/files/01_introduction_to_vectors.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-### 02 Introduction to matrices
+### 02 Introduction to matrices <span style="font-size: 11px;">[back to top](#top)</span>
 <a id="matrices"></a>
 <iframe src="/files/02_introduction_to_matrices.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-### 03 The Determinant
+### 03 The determinant <span style="font-size: 11px;">[back to top](#top)</span>
 <a id="determinant"></a>
 <iframe src="/files/03_determinant.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-### 04 The matrix inverse
+### 04 The matrix inverse <span style="font-size: 11px;">[back to top](#top)</span>
 <a id="inverse"></a>
 <iframe src="/files/04_matrix_inverses.html" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
