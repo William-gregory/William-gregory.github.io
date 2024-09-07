@@ -39,7 +39,7 @@ Nab, C., Mallett, R., **Gregory, W.**, Landy, J.C., Lawrence, I.R., Willatt, R.,
 
 **Gregory, W.**, Lawrence, I.R., Tsamados, M. (2021). A Bayesian approach towards daily pan-Arctic sea ice freeboard estimates from combined CryoSat-2 and Sentinel-3 satellite observations. *The Cryosphere*. 15, 2857-287. [https://doi.org/10.5194/tc-15-2857-2021](https://doi.org/10.5194/tc-15-2857-2021).
 
-**Gregory, W.**, Tsamados, M., Stroeve, J., Sollich P. (2020). Regional September sea ice forecasting with complex networks and Gaussian processes. *Weather and Forecasting*. 35(3), pp.793-806. [https://doi.org/10.1175/WAF-D-19-0107.1](https://doi.org/10.1175/WAF-D-19-0107.1).
+**Gregory, W.**, Tsamados, M., Stroeve, J., Sollich P. (2020). Regional September sea ice forecasting with complex networks and Gaussian processes. *Weather and Forecasting*. 35, 793-806. [https://doi.org/10.1175/WAF-D-19-0107.1](https://doi.org/10.1175/WAF-D-19-0107.1).
 
 ## Under Review
 
