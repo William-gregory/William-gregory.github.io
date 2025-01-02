@@ -23,6 +23,8 @@ header:
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra) page
 
+Balwada, D., ..., **Gregory, W.**, et al. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
+
 **Gregory, W.**, MacEachern, Ronald., Takao, So., Lawrence, I.R., Nab, C., Deisenroth, M.P., Tsamados, M. (2024). Scalable interpolation of satellite altimetry data with probabilistic machine learning. *Nature Communications*. 15, 7453. [https://doi.org/10.1038/s41467-024-51900-x](https://doi.org/10.1038/s41467-024-51900-x).
 
 Bushuk, M., ..., **Gregory, W.**, et al. (2024). Predicting September Arctic sea ice: a multi-model seasonal skill comparison, *Bulletin of the American Meteorological Society*. 105, E1170-E1203. [https://doi.org/10.1175/BAMS-D-23-0163.1](https://doi.org/10.1175/BAMS-D-23-0163.1).
@@ -40,10 +42,6 @@ Nab, C., Mallett, R., **Gregory, W.**, Landy, J.C., Lawrence, I.R., Willatt, R.,
 **Gregory, W.**, Lawrence, I.R., Tsamados, M. (2021). A Bayesian approach towards daily pan-Arctic sea ice freeboard estimates from combined CryoSat-2 and Sentinel-3 satellite observations. *The Cryosphere*. 15, 2857-287. [https://doi.org/10.5194/tc-15-2857-2021](https://doi.org/10.5194/tc-15-2857-2021).
 
 **Gregory, W.**, Tsamados, M., Stroeve, J., Sollich P. (2020). Regional September sea ice forecasting with complex networks and Gaussian processes. *Weather and Forecasting*. 35, 793-806. [https://doi.org/10.1175/WAF-D-19-0107.1](https://doi.org/10.1175/WAF-D-19-0107.1).
-
-## Under Review
-
-Balwada, D., ..., **Gregory, W.**, et al. (2023). Learning machine learning with Lorenz-96. Submitted to *Journal of Open Source Education*. [https://doi.org/10.22541/essoar.170365239.95851488/v1](https://doi.org/10.22541/essoar.170365239.95851488/v1).
 
 ## PhD thesis
 
