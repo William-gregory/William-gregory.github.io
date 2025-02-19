@@ -4,9 +4,10 @@
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
+      {% endif %}
     {% if site.bluesky.username %}
-      <li><a href="https://bsky.app/profile/{{ site.bluesky.username }}"><i class="fas fa-globe" aria-hidden="true"></i> BlueSky</a></li>
+       <li><a href="https://bsky.app/profile/{{ site.bluesky.username }}" class="btn btn--bluesky" aria-hidden="true">
+       <img src="/images/bluesky-logo.svg" alt="BlueSky" width="20" height="20"></i> BlueSky</a></li> 
     {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
