@@ -50,7 +50,14 @@
 
 {% if page.excerpt %}
   <meta property="og:description" content="{{ seo_description }}">
-{% endif %}
+  {% endif %}
+
+{% if site.bluesky.username %}
+  <meta name="bluesky:site" content="@{{ site.bluesky.username }}">
+  <meta name="bluesky:title" content="{{ page.title | default: site.title }}">
+  <meta name="bluesky:description" content="{{ seo_description }}">
+  <meta name="bluesky:url" content="{{ canonical_url }}">
+{% endif %}  
 
 {% if site.twitter.username %}
   <meta name="twitter:site" content="@{{ site.twitter.username | replace: "@", "" }}">
