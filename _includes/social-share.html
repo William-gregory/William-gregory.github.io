@@ -5,7 +5,7 @@
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-  <a href="https://bsky.app/profile/{{ site.bluesky.username }}" class="btn btn--bluesky" aria-hidden="true"><img src="/images/bluesky-logo.svg" alt="BlueSky" width="20" height="20"></i><span> BlueSky</span></a>  
+  <a href="https://bsky.app/profile/{{ site.bluesky.username }}" class="btn btn--bluesky" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} BlueSky"><img src="/images/bluesky-logo.svg" alt="BlueSky" width="20" height="20"></img><i class="btn btn--bluesky" aria-hidden="true"></i><span> Twitter</span></a>
 
   <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--twitter" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
