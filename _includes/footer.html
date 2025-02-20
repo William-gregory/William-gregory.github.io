@@ -6,7 +6,7 @@
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
       {% endif %}
     {% if site.bluesky.username %}
-       <li><a href="https://bsky.app/profile/{{ site.bluesky.username }}" class="btn btn--bluesky" title="Follow on BlueSky"><img src="/images/bluesky-logo.svg" alt="BlueSky" width="20" height="20"><span>BlueSky</span></a></li>
+      <li><a href="https://bsky.app/profile/{{ site.bluesky.username }}"><i class="fab fa-bluesky-square" aria-hidden="true"></i> BlueSky</a></li>
     {% endif %}
     {% if site.twitter.username %}
       <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
