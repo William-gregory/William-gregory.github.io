@@ -159,6 +159,11 @@
   font-weight: 400;
 }
 
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky-square {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+
 .#{$fa-css-prefix}.#{$fa-css-prefix}-facebook-square {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
@@ -222,6 +227,11 @@
 .#{$fa-css-prefix}.#{$fa-css-prefix}-bookmark-o:before { content: fa-content($fa-var-bookmark); }
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-twitter {
+  font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-bluesky {
   font-family: 'Font Awesome 5 Brands';
   font-weight: 400;
 }
