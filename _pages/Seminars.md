@@ -22,6 +22,8 @@ header:
 
 ### Invited Talks
 
+24/03/2025 - Bridging AI, remote sensing, and climate modeling to understand polar climate variability and change. *Institute for Advanced Computational Science (IACS) Seminar*. Stony Brook University, New York USA.
+
 24/06/2024 - From component to coupled: evaluating the performance of a machine-learned sea ice bias correction scheme in fully-coupled seasonal predictions. *Nansen SuperIce Webinar*.
 
 14/06/2024 - Towards improving numerical sea ice predictions with data assimilation and machine learning. *NOAA Arctic All Hands Meeting*.
