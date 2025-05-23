@@ -23,6 +23,12 @@ header:
 
 See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra) page
 
+## In review
+
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv*.
+
+## Published
+
 Balwada, D., ..., **Gregory, W.**, et al. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
 
 **Gregory, W.**, MacEachern, Ronald., Takao, So., Lawrence, I.R., Nab, C., Deisenroth, M.P., Tsamados, M. (2024). Scalable interpolation of satellite altimetry data with probabilistic machine learning. *Nature Communications*. 15, 7453. [https://doi.org/10.1038/s41467-024-51900-x](https://doi.org/10.1038/s41467-024-51900-x).
