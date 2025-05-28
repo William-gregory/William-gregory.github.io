@@ -25,7 +25,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 ## In review
 
-**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv*. [https://doi.org/10.48550/arXiv.2505.18328](https://arxiv.org/abs/2505.18328)
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328)
 
 ## Published
 
