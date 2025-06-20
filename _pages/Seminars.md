@@ -42,6 +42,8 @@ header:
 
 ### Conference Talks
 
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Machine-leaned sea ice bias correction in a global fully-coupled climate model. *Gordon Research Conference: Machine Learning for Actionable Climate Science*, RI USA, 22-27 Jun 2025.
+
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Machine-leaned sea ice bias correction in a global fully-coupled climate model. *CESM Polar Working Group Meeting*, Boulder USA, 3-4 Mar 2025.
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Towards improving numerical sea ice predictions with data assimilation and machine learning. *Cross-VESRI Convening 2024*, Cambridge UK, 7-10 Jul 2024.
