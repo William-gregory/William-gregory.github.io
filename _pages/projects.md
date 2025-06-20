@@ -61,7 +61,7 @@ header:
 ### Part III: Applying the corrections during fully-coupled sea ice forecasts <br>
 [Link to Paper](https://doi.org/10.48550/arXiv.2505.18328)
 
-<img src="http://William-gregory.github.io/images/DAML_coupled.png" alt="arXiV1" width="200" align="right"/>
+<img src="http://William-gregory.github.io/images/ML_forecast.gif" alt="arXiV1" width="300" align="right"/>
 <span style="font-size: 16px;">In our latest work (*in review at Science Advances*), we used the convolutional neural network which was trained to predict sea ice concentration DA increments, to do online bias correction in global fully-coupled simulations, using the GFDL SPEAR model. The developments from stage II therefore include a climate model with interactive atmospheric feedbacks, as well as a methdological development of implementing the ML inference into the Fortran source code of the GFDL sea ice model (see this [GitHub repo](https://github.com/m2lines/SIS2/tree/MLcorrections)).</span>
 
 *****
