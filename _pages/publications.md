@@ -27,7 +27,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328)
 
-Y. Zhang, Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *European Geosciences Union: The Cryosphere [pre-print]*. 
+Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere pre-prints*. 
 
 ## Published
 
