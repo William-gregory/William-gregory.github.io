@@ -31,7 +31,7 @@ Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. 
 
 ## Published
 
-Balwada, D., ..., **Gregory, W.**, et al. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241)
+Balwada, D., ..., **Gregory, W.**, et al. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241).
 
 **Gregory, W.**, MacEachern, Ronald., Takao, So., Lawrence, I.R., Nab, C., Deisenroth, M.P., Tsamados, M. (2024). Scalable interpolation of satellite altimetry data with probabilistic machine learning. *Nature Communications*. 15, 7453. [https://doi.org/10.1038/s41467-024-51900-x](https://doi.org/10.1038/s41467-024-51900-x).
 
