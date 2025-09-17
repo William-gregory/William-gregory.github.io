@@ -25,7 +25,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 ## In review
 
-Duncan, J.P., Wu, E., Dheeshjith, S., Subel, A., Arcomano, T., Clark, S.K., Henn, B., Kwa, A., McGibbon, J.W., Perkins, A., **Gregory, W.**, Fernandez-Granda, C., Busecke, J., Watt-Meyer, O., Hurlin, W.J., Adcroft, A., Zanna, L., Bretherton, C. (2025). SamudrACE: Fast and accurate coupled climate modeling with 3D ocean and atmosphere emulators. *arXiv* [in review at Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2509.12490](https://doi.org/10.48550/arXiv.2509.12490).
+Duncan, J.P., Wu, E., Dheeshjith, S., Subel, A., Arcomano, T., Clark, S.K., Henn, B., Kwa, A., McGibbon, J.W., Perkins, A., **Gregory, W.**, Fernandez-Granda, C., Busecke, J., Watt-Meyer, O., Hurlin, W.J., Adcroft, A., Zanna, L., Bretherton, C. (2025). SamudrACE: Fast and accurate coupled climate modeling with 3D ocean and atmosphere emulators. *arXiv [in review at Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2509.12490](https://doi.org/10.48550/arXiv.2509.12490).
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv [in review at Science Advances]*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328).
 
