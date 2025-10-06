@@ -22,7 +22,7 @@ header:
 
 ### Invited Talks
 
-04/09/2025 - Fortran-integrated machine learning in SIS2 and SPEAR. *GFDL AI workshop*. GFDL, Princeton USA.
+04/09/2025 - Fortran-integrated machine learning in SIS2 and SPEAR. *GFDL AI workshop*. NOAA Geophysical Fluid Dynamics Laboratory, Princeton USA.
 
 13/08/2025 - How is AI shaping Arctic climate modeling and observational research? *US Interagency Arctic Research Policy Committee (IARPC) Webinar*.
 
