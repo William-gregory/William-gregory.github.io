@@ -22,6 +22,10 @@ header:
 
 ### Invited Talks
 
+04/09/2025 - Fortran-integrated machine learning in SIS2 and SPEAR. *GFDL AI workshop*. GFDL, Princeton USA.
+
+13/08/2025 - How is AI shaping Arctic climate modeling and observational research? *US Interagency Arctic Research Policy Committee (IARPC) Webinar*.
+
 24/03/2025 - Bridging AI, remote sensing, and climate modeling to understand polar climate variability and change. *Institute for Advanced Computational Science (IACS) Seminar*. Stony Brook University, New York USA.
 
 24/06/2024 - From component to coupled: evaluating the performance of a machine-learned sea ice bias correction scheme in fully-coupled seasonal predictions. *Nansen SuperIce Webinar*.
