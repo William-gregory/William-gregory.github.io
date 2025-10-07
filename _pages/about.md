@@ -12,7 +12,14 @@ redirect_from:
 
 About me
 ======
-Welcome! I'm a polar climate scientist interested in how natural and anthropogenic processes lead to changes in the Earth's sea ice cover, and how well we can predict these changes on timescales of days to decades. To do this, I use machine learning methods in conjunction with large-scale remote sensing observations to explore different aspects of sea ice predictability, and also to understand how we can improve the representation of sea ice processes in climate models. Sea ice plays a crucial role in both environmental and social systems, as a regulator on Earth's temperature, and also an integral platform for connecting Arctic communities. Understanding how sea ice has changed, and will continue to change, due to global warming is therefore crucial for assessing the impacts of sea ice loss on climate and society.
+Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and prediction capabilities of climate processes, particularly in the Earth's polar regions. My work so far has been multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model (see [Projects](https://william-gregory.github.io/projects/)).
+
+My current focus is on sea ice emulation. Specifically, I am researching whether coupling a stand-alone sea ice emulator to pre-existing atmosphere and ocean emulators such as ACE and Samudra [https://doi.org/10.48550/arXiv.2509.12490](Duncan et al., 2025), improves the representation of coupled climate processes within the polar regions.
+
+The AI techniques I use in my work include:
+- Gaussian process models
+- Convolutional neural networks
+- Graph neural networks
 
 I am currently a postdoctoral research associate at Princeton University. Here, I am hired under the M2LInES initiative ([Multi-scale Machine Learning In coupled Earth System modeling](https://m2lines.github.io)), which is a programme dedicated to the improvement of climate model physics through novel machine learning techniques. Prior to this, I obtained my PhD in polar climate and machine learning from University College London. For more information on my research activities, you can check out my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra).
 
