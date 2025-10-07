@@ -16,13 +16,12 @@ Welcome! I'm a climate scientist interested in how artificial intelligence (AI) 
 
 My current focus is on sea ice emulation. In collaboration with the Allen Institute for AI, I am researching whether coupling a stand-alone sea ice emulator to the atmosphere-ocean emulator, SamudrACE ([Duncan et al., 2025](https://doi.org/10.48550/arXiv.2509.12490)), improves the representation of coupled climate processes in SamudrACE rollouts.
 
-### The AI techniques I have used throughout my various projects include:
+The AI techniques I have used throughout my various projects include:
 - Hierarchical clustering
 - Gaussian process models
 - Convolutional neural networks (Fully CNN, U-Net)
 - Graph neural networks
 
-*****
 *****
 
 ## Other info
