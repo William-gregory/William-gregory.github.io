@@ -33,11 +33,11 @@ header:
 ### Part I: Machine learning model error from data assimilation corrections <br>
 [Link to Paper](https://doi.org/10.1029/2023MS003757)
 
-<img src="http://William-gregory.github.io/images/JAMES_increments.png" alt="JAMES1" width="300" align="right"/>
+<img src="http://William-gregory.github.io/images/JAMES_increments.png" alt="JAMES1" width="250" align="right"/>
 <span style="font-size: 16px;">Climate models contain structural errors as a result of poorly parameterised or missing physics, as well as errors in the discretisation of continuous equations and errors in surface forcing. These structural errors lead to systematic biases in numerical simulations. For example, a climate model which systematically produces too much sea ice relative to a set of observations. Data Assimilation (DA) is a Bayesian framework which can reduce model biases by applying a correction, or *increment*, to the model state based on the current set of observations. These increments actually contain information about the systematic biases of a model. For example, if a model has a systematic positive bias, then the corrections generated from DA will be systematically negative (the DA is always trying to pull the model down from its positively biased state). We can therefore think of these increments as comprising some nonlinear combination of predictable model error growth associated with model bias, and an unpredictable component associated with short-term dynamics. In collaborative work with Princeton University, the Geophysical Fluid Dynamics Laboratory, and New York University, we investigated whether we could learn the predictable component of these increments using machine learning. To do this we trained convolutional neural networks to predict the increments based on the current state of the model (i.e. based on the current sea ice, ocean, and atmosphere conditions). This therefore gives rise to a *state-dependent* representation of the systematic component of model error. In our study published in the Journal of Advances in Modeling Earth Systems, we found that we can predict these increments very well in both the Arctic and Antarctic, and across all seasons. The figure on the right for example is a snapshot of the increments produced from DA (i.e. using observations), compared to the increments predicted by machine learning (i.e using only model state variables). The spatial pattern correlation (rho) is given between these two snapshots.</span><br>
 <span style="font-size: 16px;">Based on this work, we suggested that this machine learning model could be used to bias correct numerical simulations during forward integration of the model, when we do not have observations---see Part II.</span>
 
-### Part II: The first hybrid global ice-ocean model <br>
+### Part II: The first hybrid global sea ice model <br>
 [Link to Paper](https://doi.org/10.1029/2023GL106776)
 
 <span style="font-size: 16px;">In a follow-up Geophysical Research Letters study, we used the convolutional neural network which was trained to predict sea ice concentration DA increments, to do online bias correction in global ice-ocean simulations. A snapshot of the model error in summer is shown in the figures below for both the Arctic and Antarctic, where the observed ice edge is shown by the black contour. The colours then represent sea ice concentration errors relative to observations. We can see that the free-running model generally has too much sea ice in summer in both hemispheres---highlighted by the positive errors equator-ward of the observed ice edge contour. The simulation which assimilates observations (DA simulation) then reduces the ice-edge errors significantly. Impressively, the simulation which applies the machine learning correction (ML simulation) also significantly reduces the model errors, despite **never seeing any observations**---the corrections being applied during the model simulation are only a function of the model state variables themselves.</span><br>
@@ -46,7 +46,7 @@ header:
 <img src="http://William-gregory.github.io/images/GRL_snapshot_Arctic.png" alt="GRL1" width="80%"/>
 <img src="http://William-gregory.github.io/images/GRL_snapshot.png" alt="GRL2" width="80%"/>
 
-### Part III: The first hybrid global fully-coupled climate model <br>
+### Part III: Improving global fully-coupled climate model forecasts <br>
 [Link to Paper](https://doi.org/10.48550/arXiv.2505.18328)
 
 <img src="http://William-gregory.github.io/images/ML_forecast_loop.gif" alt="arXiV1" width="600" align="right"/>
@@ -70,7 +70,7 @@ header:
 *****
 
 # Climate networks<br>
-### Part I: Atmosphere-ice teleconnections<br>
+### Part I: Ice-atmosphere teleconnections<br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks) | [Link to Paper](https://doi.org/10.5194/tc-16-1653-2022)</span>
 <span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
 
