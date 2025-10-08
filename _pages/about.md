@@ -12,9 +12,7 @@ redirect_from:
 
 About me
 ======
-Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and prediction capabilities of climate processes, particularly in Earth's polar regions. My work so far has been multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model (see [Projects](https://william-gregory.github.io/projects/)).
-
-My current focus is on sea ice emulation. In collaboration with the Allen Institute for AI, I am researching whether coupling a stand-alone sea ice emulator to the atmosphere-ocean emulator, SamudrACE ([Duncan, ..., Gregory et al., 2025](https://doi.org/10.48550/arXiv.2509.12490)), improves the representation of coupled climate processes in SamudrACE rollouts.
+Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and predictions of polar climate processes. My work is multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model (see [Projects](https://william-gregory.github.io/projects/)). My current focus is on sea ice emulation. In collaboration with the Allen Institute for AI, I am researching whether coupling a stand-alone sea ice emulator to the atmosphere-ocean emulator, SamudrACE ([Duncan, ..., Gregory et al., 2025](https://doi.org/10.48550/arXiv.2509.12490)), improves the representation of coupled climate processes in SamudrACE rollouts.
 
 The AI techniques I have used throughout my various projects include:
 - Hierarchical clustering
