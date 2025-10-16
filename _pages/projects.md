@@ -26,12 +26,12 @@ header:
 
  -->
 
-# Coupled climate emulation with AI<br>
+# Coupled climate emulation with AI <br>
  <span style="line-height: 0;">[HuggingFace Repository](https://huggingface.co/allenai/SamudrACE-CM4-piControl) | [Link to Paper](https://doi.org/10.48550/arXiv.2509.12490) </span>
  <span style="font-size: 10px;">Collaborators: James Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer Clark, Brian Henn, Anna, Kwa, Jeremy McGibbon, Andre Perkins, Carlos Fernandez-Granda, Julius Busecke, Oli Watt-Meyer, Bill Hurlin, Alistair Adcroft, Laure Zanna, Chris Bretherton</span>
 
 <img src="http://William-gregory.github.io/images/SamudrACE.gif" alt="arXiV2" width="300" align="right"/>
-<span style="font-size: 16px;">Climate models contain structural errors as a result of poorly parameterised or missing physics, as well as errors in the discretisation of continuous equations and errors in surface forcing. These structural errors lead to systematic biases in numerical simulations. For example, a climate model which systematically produces too much sea ice relative to a set of observations. Data Assimilation (DA) is a Bayesian framework which can reduce model biases by applying a correction, or *increment*, to the model state based on the current set of observations. These increments actually contain information about the systematic biases of a model. For example, if a model has a systematic positive bias, then the corrections generated from DA will be systematically negative (the DA is always trying to pull the model down from its positively biased state). We can therefore think of these increments as comprising some nonlinear combination of predictable model error growth associated with model bias, and an unpredictable component associated with short-term dynamics. In collaborative work with Princeton University, the Geophysical Fluid Dynamics Laboratory, and New York University, we investigated whether we could learn the predictable component of these increments using machine learning. To do this we trained convolutional neural networks to predict the increments based on the current state of the model (i.e. based on the current sea ice, ocean, and atmosphere conditions). This therefore gives rise to a *state-dependent* representation of the systematic component of model error. In our study published in the Journal of Advances in Modeling Earth Systems, we found that we can predict these increments very well in both the Arctic and Antarctic, and across all seasons. The figure on the right for example is a snapshot of the increments produced from DA (i.e. using observations), compared to the increments predicted by machine learning (i.e using only model state variables). The spatial pattern correlation (rho) is given between these two snapshots.</span><br>
+<span style="font-size: 16px;">Coupled climate models have been the cornerstone of Earth system research for decades and have allowed us to answer critical questions about how Earth's climate responds to changes in greenhouse gas emissions and what the future might look like under different warming scenarios. However, these simulations are expensive. The state-of-the-art GFDL climate model CM4, has a throughput of 16 SYPD (Simulated Year Per Day) on 5535 CPU cores. To accurately understand climate variability and change we need to run long simulations. The ocean for example takes hundreds to thousands of years to reach an equilibrium state (what we typically refer to as a 'spun-up state'). A 100 year simulation of CM4 therefore takes almost 1 week and requires massive resources. Recent work in the space of AI and climate has shown that AI models can accurately simulate individual Earth system components. For example, [ACE](https://doi.org/10.1038/s41612-025-01090-0) and [Samudra](https://doi.org/10.1029/2024GL114318) are AI emulators of the full 3D atmosphere and ocean, respectively. </span><br>
 
 *****
 *****
@@ -80,7 +80,7 @@ header:
 *****
 *****
 
-# Using climate networks to understand and predict sea ice variability<br>
+# Connecting the polar climate system with complex networks <br>
 ### Part I: Ice-atmosphere teleconnections<br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/ComplexNetworks) | [Link to Paper](https://doi.org/10.5194/tc-16-1653-2022)</span>
 <span style="font-size: 10px;">Collaborators: Julienne Stroeve, Michel Tsamados</span>
