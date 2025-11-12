@@ -29,7 +29,7 @@ Duncan, J.P., Wu, E., Dheeshjith, S., Subel, A., Arcomano, T., Clark, S.K., Henn
 
 Zanna, L., **Gregory, W.**, Perezogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv [in review at Science Advances]*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
-**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv [in review at Science Advances]*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328).
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv [accepted at Science Advances]*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328).
 
 Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [in review at The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
 
