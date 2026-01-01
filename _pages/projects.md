@@ -39,7 +39,7 @@ header:
 
 # Building a Hybrid (AI+physics) climate model<br>
 <span style="line-height: 0;">[GitHub Repository](https://github.com/William-gregory/DA-ML)</span>
-<span style="font-size: 10px;">Collaborators: Mitch Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna</span>
+<span style="font-size: 10px;">Collaborators: Mitch Bushuk, Yongfei Zhang, Alistair Adcroft, Laure Zanna, Colleen McHugh, Liwei Jia</span>
 
 ### Part I: Machine learning model error from data assimilation corrections <br>
 [Link to Paper](https://doi.org/10.1029/2023MS003757)
