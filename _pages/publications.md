@@ -33,7 +33,7 @@ Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. 
 
 ## Published
 
-**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2026). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *Science Advances*. 11, 52. [https://doi.org/10.1126/sciadv.ady8957](https://doi.org/10.1126/sciadv.ady8957).
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2026). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *Science Advances*. 12, 1. [https://doi.org/10.1126/sciadv.ady8957](https://doi.org/10.1126/sciadv.ady8957).
 
 Balwada, D., Abernathey, R., Acharya, S., Adcroft, A., Berner, J., Balaji, V., Bhouri, M., Bruna, J., Bushuk, M., Chapman, W., Connolly, A., Deshayes, J., Fernandez-Granda, C., Gentine, P., Gorbunova, A., **Gregory, W.**, Guillaumin, A., Gupta, S., Holland, M., Johnson, J.E., Le Sommer, J., Li, Z., Loose, N., Lu, F., O'Gorman, P., Perezhogin, P., Reichl, B., Ross, A., Sane, A., Shamekh, S., Verma, T., Yuval, J., Zampieri, L., Zhang, C., Zanna, L. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241).
 
