@@ -29,11 +29,11 @@ Duncan, J.P., Wu, E., Dheeshjith, S., Subel, A., Arcomano, T., Clark, S.K., Henn
 
 Zanna, L., **Gregory, W.**, Perezogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv [in review at Science Advances]*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
-**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2025). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *arXiv [accepted at Science Advances]*. [https://doi.org/10.48550/arXiv.2505.18328](https://doi.org/10.48550/arXiv.2505.18328).
-
 Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [in review at The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
 
 ## Published
+
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. (2026). Advancing global sea ice prediction capabilities using a fully-coupled climate model with integrated machine learning. *Science Advances*. 11, 52. [https://doi.org/10.1126/sciadv.ady8957](https://doi.org/10.1126/sciadv.ady8957).
 
 Balwada, D., Abernathey, R., Acharya, S., Adcroft, A., Berner, J., Balaji, V., Bhouri, M., Bruna, J., Bushuk, M., Chapman, W., Connolly, A., Deshayes, J., Fernandez-Granda, C., Gentine, P., Gorbunova, A., **Gregory, W.**, Guillaumin, A., Gupta, S., Holland, M., Johnson, J.E., Le Sommer, J., Li, Z., Loose, N., Lu, F., O'Gorman, P., Perezhogin, P., Reichl, B., Ross, A., Sane, A., Shamekh, S., Verma, T., Yuval, J., Zampieri, L., Zhang, C., Zanna, L. (2024). Learning machine learning with Lorenz-96. *Journal of Open Source Education*. 7, 241. [https://doi.org/10.21105/jose.00241](https://doi.org/10.21105/jose.00241).
 
