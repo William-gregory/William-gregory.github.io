@@ -48,6 +48,10 @@ header:
 
 ### Conference Talks
 
+**Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. Evaluating a new hybrid sea ice model in global fully-coupled climate predictions and projections. *AGU Ocean Sciences Meeting*, Glasgow UK, 22-27 Feb 2026.
+
+**Gregory, W.**, Bushuk, M., Duncan, J., Wu, E., Subel, A., Clark, S., Hurlin, B., McGibbon, J., Henn, B., Arcomano, T., Kwa, A., Perkins, W.A., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. FloeNet: a mass-conserving emulator of the GFDL sea ice model. *CESM Polar Working Group Meeting*, Boulder USA, 5-6 Feb 2026. 
+
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Machine-leaned sea ice bias correction in a global fully-coupled climate model. *Gordon Research Conference: Machine Learning for Actionable Climate Science*, RI USA, 22-27 Jun 2025.
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Machine-leaned sea ice bias correction in a global fully-coupled climate model. *CESM Polar Working Group Meeting*, Boulder USA, 3-4 Mar 2025.
