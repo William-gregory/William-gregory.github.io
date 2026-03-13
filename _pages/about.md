@@ -12,20 +12,14 @@ redirect_from:
 
 About me
 ======
-Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and predictions of polar climate processes. My work is multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model and the first global sea ice emulator (see [Projects](https://william-gregory.github.io/projects/)).
-
-The AI techniques I have used throughout my various projects include:
-- Hierarchical clustering
-- Gaussian process models
-- Convolutional neural networks (Fully CNN, U-Net)
-- Graph neural networks
+Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and predictions of polar climate processes. My work is multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model and the first emulator of a global sea ice model (see [Projects](https://william-gregory.github.io/projects/)).
 
 *****
 
 ## Latest work
 
 <img src="http://William-gregory.github.io/images/FloeNet_dynamics.gif" alt="arXiV2" width="300" align="right"/>
-My latest publication introduces FloeNet, a mass-conserving global sea ice model, based entirely on AI. FloeNet is an auto-regressive graph neural network which has been trained to emulate the GFDL numerical sea ice model, SIS2. With a 6-hour timestep, FloeNet can respond rapidly to atmospheric dynamics, as seen in the animation on the right; this shows the wind stress forcing overlain on FloeNet's sea ice concentration, where you can see how storms break up the sea ice and cause localised areas of low concentration. In our paper we show how FloeNet also shows accurate response to forcing on climate timescales. We evaluate 140-year rollouts where FloeNet is forced by atmosphere and ocean conditions from a pre-industrial control climate and a climate with increasing 1% per year atmospheric CO2 concentration. Under these climates, FloeNet shows remarkable skill, particularly in capturing inter-annual sea ice volume variability.
+My latest publication introduces FloeNet, a mass-conserving global sea ice model, based entirely on AI. FloeNet is an auto-regressive graph neural network which has been trained to emulate the GFDL numerical sea ice model, SIS2. The animation on the right shows the wind stress forcing overlain on FloeNet's sea ice concentration. Notice how FloeNet responds rapidly to atmospheric dynamics, with storms breaking up the sea ice to produce areas of low ice concentration. In our paper, we show how FloeNet generates accurate thermodynamic and dynamic responses to forcing on climate timescales; we evaluate 140-year rollouts under a pre-industrial control climate and a climate with increasing 1% per year atmospheric CO2 concentration. Under these conditions, FloeNet shows remarkable skill, particularly in capturing inter-annual sea ice volume variability. FloeNet is also 3x faster than the original numerical model and requires significantly less resouces. A 140-year simulation with FloeNet takes 4.75 hours on 1 GPU, whereas SIS2 takes over 14 hours on 4671 CPUs.
 
 ## Other info
 
