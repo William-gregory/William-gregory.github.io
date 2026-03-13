@@ -25,6 +25,8 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 ## In review
 
+**Gregory, W.**, Bushuk, M., Duncan, J.P., Wu, E., Subel, A., Clark, S.K., Hurlin, W.J., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. (2026). FloeNet: A mass-conserving global sea ice emulator that generalizes across climates. *arXiv [in review at Geophysical Research Letters]*.
+
 Duncan, J.P., Wu, E., Dheeshjith, S., Subel, A., Arcomano, T., Clark, S.K., Henn, B., Kwa, A., McGibbon, J.W., Perkins, A., **Gregory, W.**, Fernandez-Granda, C., Busecke, J., Watt-Meyer, O., Hurlin, W.J., Adcroft, A., Zanna, L., Bretherton, C. (2025). SamudrACE: Fast and accurate coupled climate modeling with 3D ocean and atmosphere emulators. *arXiv [in review at Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2509.12490](https://doi.org/10.48550/arXiv.2509.12490).
 
 Zanna, L., **Gregory, W.**, Perezogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv [in review at Science Advances]*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
