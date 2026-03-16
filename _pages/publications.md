@@ -47,7 +47,7 @@ Bushuk, M., Ali, S., Bailey, D., Bao, Q., Batté, L., Bhatt, U., Blanchard-Wrigg
 
 Zhang, Y., Bushuk, M., Winton, M., Hurlin, W., **Gregory, W.**, Landy, J.C., Jia, L. (2023). Improvements in September Arctic sea ice predictions via assimilation of summer CryoSat-2 sea ice thickness observations. *Geophysical Research Letters*. 50, e2023GL105672. [https://doi.org/10.1029/2023GL105672](https://doi.org/10.1029/2023GL105672).
 
-**Gregory, W.**, Bushuk, M., Adcroft, A., Zhang, Y., Zanna, L. (2023). Deep learning of systematic sea ice model error from data assimilation increments. *Journal of Advances in Modeling Earth Systems*. 15, e2023MS003757. [https://doi.org/10.1029/2023MS003757](https://doi.org/10.1029/2023MS003757).
+**Gregory, W.**, Bushuk, M., Adcroft, A., Zhang, Y., Zanna, L. (2023). Deep learning of systematic sea ice model errors from data assimilation increments. *Journal of Advances in Modeling Earth Systems*. 15, e2023MS003757. [https://doi.org/10.1029/2023MS003757](https://doi.org/10.1029/2023MS003757).
 
 Nab, C., Mallett, R., **Gregory, W.**, Landy, J.C., Lawrence, I.R., Willatt, R., Stroeve, J., Tsamados, M. (2023). Synoptic variability in satellite altimeter-derived radar freeboard of Arctic sea ice. *Geophysical Research Letters*. 50, e2022GL100696. [https://doi.org/10.1029/2022GL100696](https://doi.org/10.1029/2022GL100696).
 
