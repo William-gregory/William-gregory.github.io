@@ -26,7 +26,9 @@ header:
 
  -->
 
-# Climate model emulation with AI <br><span style="font-size: 10px;">Collaborators: James Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer Clark, Brian Henn, Anna, Kwa, Jeremy McGibbon, Andre Perkins, Carlos Fernandez-Granda, Julius Busecke, Oli Watt-Meyer, Bill Hurlin, Alistair Adcroft, Laure Zanna, Chris Bretherton</span>
+# Climate model emulation with AI <br>
+
+<span style="font-size: 10px;">Collaborators: James Duncan, Elynn Wu, Surya Dheeshjith, Adam Subel, Troy Arcomano, Spencer Clark, Brian Henn, Anna, Kwa, Jeremy McGibbon, Andre Perkins, Carlos Fernandez-Granda, Julius Busecke, Oli Watt-Meyer, Bill Hurlin, Alistair Adcroft, Laure Zanna, Chris Bretherton</span>
 
 ### SamudrACE: coupled atmosphere-ocean emulation
  <span style="line-height: 0;">[HuggingFace Repository](https://huggingface.co/allenai/SamudrACE-CM4-piControl) | [Link to Paper](https://doi.org/10.48550/arXiv.2509.12490) </span>
