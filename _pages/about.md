@@ -16,7 +16,9 @@ Welcome! I'm a climate scientist interested in how artificial intelligence (AI) 
 
 I am currently a postdoctoral research associate at Princeton University. Here, I am hired through the [M$^2$LInES](https://m2lines.github.io) initiative, which is a Schmidt-Sciences-funded programme dedicated to the improvement of climate models using AI. Prior to this, I obtained my PhD in polar climate and machine learning from University College London. For more information on my research activities, you can check out my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra).
 
-#I am also developing a series of educational Python notebooks which cover the fundamental concepts of various statistical and machine learning methodologies. The aim is to cover concepts related to linear algebra, as well as supervised/unsupervised learning techniques; starting from linear regression and working towards deep neural networks. These notebooks will be routinely uploaded to the [Code](code) page of this website.
+<!-- 
+I am also developing a series of educational Python notebooks which cover the fundamental concepts of various statistical and machine learning methodologies. The aim is to cover concepts related to linear algebra, as well as supervised/unsupervised learning techniques; starting from linear regression and working towards deep neural networks. These notebooks will be routinely uploaded to the [Code](code) page of this website.
+-->
 
 *****
 
