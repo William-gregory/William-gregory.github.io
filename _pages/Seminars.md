@@ -48,9 +48,9 @@ header:
 
 ### Conference Talks
 
-**Gregory, W.**, Bushuk, M., Duncan, J., Wu, E., Subel, A., Clark, S., Hurlin, B., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. Towards a mass-conserving global sea ice emulator that generalizes across climates. *EGU General Assembly 2026*, Vienna Austria, 4-9 May 2026.
+**Gregory, W.**, Bushuk, M., Duncan, J., Wu, E., Subel, A., Clark, S., Hurlin, B., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. Towards a mass-conservative global sea ice emulator that generalizes across climates. *EGU General Assembly 2026*, Vienna Austria, 4-9 May 2026.
 
-**Gregory, W.**, Bushuk, M., Duncan, J., Wu, E., Subel, A., Clark, S., Hurlin, B., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. Towards a mass-conserving global sea ice emulator that generalizes across climates. *Climate Informatics*, Lausanne Switzerland, 26-29 Apr 2026. 
+**Gregory, W.**, Bushuk, M., Duncan, J., Wu, E., Subel, A., Clark, S., Hurlin, B., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. Towards a mass-conservative global sea ice emulator that generalizes across climates. *Climate Informatics*, Lausanne Switzerland, 26-29 Apr 2026. 
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L., McHugh, C., Jia, L. Evaluating a new hybrid sea ice model in global fully-coupled climate predictions and projections. *AGU Ocean Sciences Meeting*, Glasgow UK, 22-27 Feb 2026.
 
