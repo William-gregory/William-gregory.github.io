@@ -29,7 +29,7 @@ Bushuk, M., Bonan, D., Griffies, S., **Gregory, W.**, Zhang, Y., Hurlin, W.J., C
 
 **Gregory, W.**, Bushuk, M., Duncan, J.P., Wu, E., Subel, A., Clark, S.K., Hurlin, W.J., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. (2026). FloeNet: A mass-conserving global sea ice emulator that generalizes across climates. *arXiv [in review at Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2603.12449](https://doi.org/10.48550/arXiv.2603.12449).
 
-Zanna, L., **Gregory, W.**, Perezogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
+Zanna, L., **Gregory, W.**, Perezhogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
 Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [in review at The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
 
