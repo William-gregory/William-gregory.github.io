@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Will Gregory"
 title_separator          : "-"
 name                     : &name "Will Gregory"
-description              : &description "Postdoctoral Research Associate, Princeton University"
+description              : &description "Research Fellow, University College London"
 url                      : https://William-gregory.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "William-gregory/William-gregory.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Will Gregory"
   avatar           : "profile.jpeg"
-  bio              : "Postdoctoral Research Associate, Princeton Universtiy"
+  bio              : "Research Fellow, University College London"
   location         : "London, UK"
   employer         :
   pubmed           : 

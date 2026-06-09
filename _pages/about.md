@@ -12,7 +12,7 @@ redirect_from:
 
 About me
 ======
-Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and predictions of polar climate processes. My work is multi-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model and the first emulator of a global sea ice model (see [Projects](https://william-gregory.github.io/projects/)).
+Welcome! I'm a climate scientist interested in how artificial intelligence (AI) can advance our understanding and predictions of polar climate processes. My work is inter-disciplinary; I have used to AI to improve remote sensing data sets over sea ice, as well as to build the first hybrid global sea ice model and the first emulator of a global sea ice model (see [Projects](https://william-gregory.github.io/projects/)).
 
 I am currently a postdoctoral research associate at Princeton University. Here, I am hired through the [M$^2$LInES](https://m2lines.github.io) initiative, which is a Schmidt-Sciences-funded programme dedicated to the improvement of climate models using AI. Prior to this, I obtained my PhD in polar climate and machine learning from University College London. For more information on my research activities, you can check out my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAAAAJ&hl=en&oi=sra).
 
