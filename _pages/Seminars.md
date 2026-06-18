@@ -22,6 +22,8 @@ header:
 
 ### Invited Talks
 
+24/06/2026 - A new global sea ice emulator and the path toward fully data-driven coupled climate modelling. *ORCAS Webinar*.
+
 20/11/2025 - How is AI shaping sea ice modeling and prediction research? *Polar Research Board, Fall Meeting Webinar*.
 
 04/09/2025 - Fortran-integrated machine learning in SIS2 and SPEAR. *GFDL AI workshop*. NOAA Geophysical Fluid Dynamics Laboratory, Princeton USA.
