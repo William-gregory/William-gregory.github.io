@@ -27,7 +27,7 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 Bushuk, M., Bonan, D., Griffies, S., **Gregory, W.**, Zhang, Y., Hurlin, W.J., Chen, Y., Rackow, T., Goessling, H.F. (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *In review at Geophysical Research Letters*.
 
-**Gregory, W.**, Bushuk, M., Duncan, J.P., Wu, E., Subel, A., Clark, S.K., Hurlin, W.J., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. (2026). FloeNet: A mass-conserving global sea ice emulator that generalizes across climates. *arXiv [in review at Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2603.12449](https://doi.org/10.48550/arXiv.2603.12449).
+**Gregory, W.**, Bushuk, M., Duncan, J.P., Wu, E., Subel, A., Clark, S.K., Hurlin, W.J., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. (2026). FloeNet: A mass-conserving global sea ice emulator that generalizes across climates. *arXiv [accepted in Geophysical Research Letters]*. [https://doi.org/10.48550/arXiv.2603.12449](https://doi.org/10.48550/arXiv.2603.12449).
 
 Zanna, L., **Gregory, W.**, Perezhogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
