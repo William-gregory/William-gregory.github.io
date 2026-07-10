@@ -31,7 +31,7 @@ Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. 
 
 ## Published
 
-Bushuk, M., Bonan, D., Griffies, S., **Gregory, W.**, Zhang, Y., Hurlin, W.J., Chen, Y., Rackow, T., Goessling, H.F. (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *accepted in Geophysical Research Letters*. 53, e2026GL124043. [https://doi.org/10.1029/2026GL124043](https://doi.org/10.1029/2026GL124043).
+Bushuk, M., Bonan, D., Griffies, S., **Gregory, W.**, Zhang, Y., Hurlin, W.J., Chen, Y., Rackow, T., Goessling, H.F. (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *Geophysical Research Letters*. 53, e2026GL124043. [https://doi.org/10.1029/2026GL124043](https://doi.org/10.1029/2026GL124043).
 
 **Gregory, W.**, Bushuk, M., Duncan, J.P., Wu, E., Subel, A., Clark, S.K., Hurlin, W.J., Watt-Meyer, O., Adcroft, A., Bretherton, C., Zanna, L. (2026). FloeNet: A mass-conserving global sea ice emulator that generalizes across climates. *Geophysical Research Letters*. 53, e2026GL122981. [https://doi.org/10.1029/2026GL122981](https://doi.org/10.1029/2026GL122981).
 
