@@ -25,9 +25,11 @@ See also my [Google Scholar](https://scholar.google.com/citations?user=zgcx9eQAA
 
 ## In review
 
+Petty, A., Cardinale, C., Tsamados, M., **Gregory, W.**, Cabaj, A. (2026). Gaussian-process fusion of ICESat-2 and SMOS/SMAP data for daily estimates of Arctic sea ice thickness and volume. *EGUsphere [in review in ESSD]*. [https://doi.org/10.5194/essd-2026-700](https://doi.org/10.5194/essd-2026-700).
+
 Zanna, L., **Gregory, W.**, Perezhogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
-Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [in review at The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
+Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [accepted in The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
 
 ## Published
 
