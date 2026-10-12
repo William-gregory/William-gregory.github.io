@@ -22,7 +22,7 @@ header:
 
 ### Invited Talks
 
-11/12/2026 (Upcoming) - Machine Learning for Sea Ice Prediction: From Where Have We Come and to Where Are We Going?. *AGU Annual Meeting 2026, San Francisco, USA*.
+11/12/2026 (Upcoming) - Machine Learning for Sea Ice Prediction: From Where Have We Come and to Where Are We Going? *AGU Annual Meeting 2026, San Francisco, USA*.
 
 10/12/2026 (Upcoming) - A New Global Sea Ice Emulator and the Path Toward Fully Data-driven Coupled Climate Modeling. *AGU Annual Meeting 2026, San Francisco, USA*.
 
