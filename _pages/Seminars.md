@@ -22,9 +22,9 @@ header:
 
 ### Invited Talks
 
-11/12/2026 (Upcoming) - Machine Learning for Sea Ice Prediction: From Where Have We Come and to Where Are We Going? *AGU Annual Meeting 2026, San Francisco, USA*.
+11/12/2026 (Upcoming) - Machine learning for sea ice prediction: from where have we come and to where are we going? *AGU Annual Meeting 2026, San Francisco, USA*.
 
-10/12/2026 (Upcoming) - A New Global Sea Ice Emulator and the Path Toward Fully Data-driven Coupled Climate Modeling. *AGU Annual Meeting 2026, San Francisco, USA*.
+10/12/2026 (Upcoming) - A new global sea ice emulator and the path toward fully data-driven coupled climate modeling. *AGU Annual Meeting 2026, San Francisco, USA*.
 
 27/10/2026 - AI for hybrid sea ice modeling and emulation. *Polar Amplification Model Intercomparison Project (PAMIP) Webinar*.
 
