@@ -26,9 +26,9 @@ header:
 
 10/12/2026 (Upcoming) - A new global sea ice emulator and the path toward fully data-driven coupled climate modeling. *AGU Annual Meeting 2026, San Francisco, USA*.
 
-27/10/2026 (Upcoming) - AI for hybrid sea ice modeling and emulation. *Polar Amplification Model Intercomparison Project (PAMIP) Webinar*.
+27/10/2026 (Upcoming) - Advancing sea ice simulations in the age of machine learning. *Polar Amplification Model Intercomparison Project (PAMIP) Webinar*.
 
-24/06/2026 - A new global sea ice emulator and the path toward fully data-driven coupled climate modelling. *ORCAS Webinar*.
+24/06/2026 - A new global sea ice emulator and the path toward fully data-driven coupled climate modelling. *Observational Requirements in the Context of AI prediction systems for Sea ice (ORCAS) Webinar*.
 
 20/11/2025 - How is AI shaping sea ice modeling and prediction research? *Polar Research Board, Fall Meeting Webinar*.
 
