@@ -26,7 +26,7 @@ header:
 
 10/12/2026 (Upcoming) - A new global sea ice emulator and the path toward fully data-driven coupled climate modeling. *AGU Annual Meeting 2026, San Francisco, USA*.
 
-27/10/2026 - AI for hybrid sea ice modeling and emulation. *Polar Amplification Model Intercomparison Project (PAMIP) Webinar*.
+27/10/2026 (Upcoming) - AI for hybrid sea ice modeling and emulation. *Polar Amplification Model Intercomparison Project (PAMIP) Webinar*.
 
 24/06/2026 - A new global sea ice emulator and the path toward fully data-driven coupled climate modelling. *ORCAS Webinar*.
 
@@ -74,15 +74,15 @@ header:
 
 **Gregory, W.**, Bushuk, M., Zhang, Y., Adcroft, A., Zanna, L. Machine learning for online sea ice bias correction within global ice-ocean simulations. *AGU Ocean Sciences Meeting 2024*, New Orleans USA, 19-23 Feb 2024.
 
-Zanna, L., Sane, A., Zhang, C., Balwada, D., Perezhogin, P., **Gregory, W.**, Busecke, J., Adcroft, A., Reichl, B., Bushuk, M., Lu, F., Abernathey, R., Shao, A., Fernandez-Granda, C. The New Generation of Global Climate Models Enhanced by Machine Learning. *AGU Fall Meeting 2023*, San Francisco USA, 11-15 Dec 2023. GC21A-05.
+Zanna, L., Sane, A., Zhang, C., Balwada, D., Perezhogin, P., **Gregory, W.**, Busecke, J., Adcroft, A., Reichl, B., Bushuk, M., Lu, F., Abernathey, R., Shao, A., Fernandez-Granda, C. The New Generation of Global Climate Models Enhanced by Machine Learning. *AGU Annual Meeting 2023*, San Francisco USA, 11-15 Dec 2023. GC21A-05.
 
 MacEachern, R., Tsamados, M., **Gregory, W.**, Lawrence, I.R., Takao, S. Fast interpolation of satellite altimetry data with probabilistic machine learning and GPU. *EGU General Assembly 2023*, Vienna Austria, 23-28 Apr 2023, EGU23-17323.
 
 **Gregory, W.**, Bushuk, M., Adcroft, A., Zhang, Y., Zanna, L. Deep learning of systematic sea ice model errors from data assimilation increments. *EGU General Assembly 2023*, Vienna Austria, 23-28 Apr 2023, EGU23-10351.
 
-**Gregory, W.**, Bushuk, M., Adcroft, A., Zhang, Y., Zanna, L. Using deep learning to predict systematic model error from sea ice data assimilation increments in a fully coupled climate model. *AGU Fall Meeting 2022*, Chicago USA, 12-16 Dec 2022. C52C-0383.
+**Gregory, W.**, Bushuk, M., Adcroft, A., Zhang, Y., Zanna, L. Using deep learning to predict systematic model error from sea ice data assimilation increments in a fully coupled climate model. *AGU Annual Meeting 2022*, Chicago USA, 12-16 Dec 2022. C52C-0383.
 
-Bushuk, M., ..., **Gregory, W.**, et al. A multi-model comparison of September Arctic sea ice seasonal prediction skill. *AGU Fall Meeting 2022*, Chicago USA, 12-16 Dec 2022. GC52B-02.
+Bushuk, M., ..., **Gregory, W.**, et al. A multi-model comparison of September Arctic sea ice seasonal prediction skill. *AGU Annual Meeting 2022*, Chicago USA, 12-16 Dec 2022. GC52B-02.
 
 **Gregory, W.**, Lawrence, I.R., Tsamados, M. A Bayesian approach towards daily pan-Arctic sea ice freeboard estimates from combined CryoSat-2 and Sentinel-3 satellite observations. *EGU General Assembly 2021*, Vienna Austria, 19-30 Apr 2021, EGU21-11462.
 
