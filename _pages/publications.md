@@ -29,9 +29,9 @@ Petty, A., Cardinale, C., Tsamados, M., **Gregory, W.**, Cabaj, A. (2026). Gauss
 
 Zanna, L., **Gregory, W.**, Perezhogin, P., Sane, A., Zhang, C., Adcroft, A., Bushuk, M., Fernandez-Granda, C., Reichl, B., Balwada, D., Busecke, J., Chapman, W., Connolly, A., Du, D., Everard, K., Falasca, F., Falga, R., Kamm, D., Meunier, E., Liu, Q., Nasser, A., Pudig, M., Shao, A., Simpson, J.L., Vogt, L., Wu, J. (2025). A framework for hybrid physics-AI coupled ocean models. *arXiv*. [https://doi.org/10.48550/arXiv.2510.22676](https://doi.org/10.48550/arXiv.2510.22676).
 
-Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2025). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *EGUsphere [accepted in The Cryosphere]*. [https://doi.org/10.5194/egusphere-2025-2807](https://doi.org/10.5194/egusphere-2025-2807). 
-
 ## Published
+
+Zhang, Y., Bushuk, M., Winton, M., **Gregory, W.**, Hurlin, W., Jia, L., Lu, F. (2026). Subseasonal forecast improvements from sea ice concentration data assimilation in the Antarctic. *The Cryosphere*. 20, 5867–5882. [https://doi.org/10.5194/tc-20-5867-2026](https://doi.org/10.5194/tc-20-5867-2026).
 
 Bushuk, M., Bonan, D., Griffies, S., **Gregory, W.**, Zhang, Y., Hurlin, W.J., Chen, Y., Rackow, T., Goessling, H.F. (2026). Historical and projected Antarctic sea ice trends across high-resolution coupled model hierarchies. *Geophysical Research Letters*. 53, e2026GL124043. [https://doi.org/10.1029/2026GL124043](https://doi.org/10.1029/2026GL124043).
 
